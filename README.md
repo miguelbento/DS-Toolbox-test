@@ -1,7 +1,7 @@
 # DS-Toolbox-test
 my first test repo for DS Toolbox
 
-## secondard heading
+## secondary heading
 * bullet 1
 * bullet 2
 
